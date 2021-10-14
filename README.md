@@ -1,4 +1,4 @@
-# Creating a Choose Your Own Adventure Game
+# Personal Budget Planner
 
 This is an activity for FSWD Lesson 1.10.4- Arrays & Iteration.
 
